@@ -1,0 +1,10 @@
+D:\samples\Dialog Controls\Dialog Controls\obj\Debug\Dialog Controls.csprojAssemblyReference.cache
+D:\samples\Dialog Controls\Dialog Controls\obj\Debug\Dialog_Controls.Form1.resources
+D:\samples\Dialog Controls\Dialog Controls\obj\Debug\Dialog_Controls.Properties.Resources.resources
+D:\samples\Dialog Controls\Dialog Controls\obj\Debug\Dialog Controls.csproj.GenerateResource.cache
+D:\samples\Dialog Controls\Dialog Controls\obj\Debug\Dialog Controls.csproj.CoreCompileInputs.cache
+D:\samples\Dialog Controls\Dialog Controls\bin\Debug\Dialog Controls.exe.config
+D:\samples\Dialog Controls\Dialog Controls\bin\Debug\Dialog Controls.exe
+D:\samples\Dialog Controls\Dialog Controls\bin\Debug\Dialog Controls.pdb
+D:\samples\Dialog Controls\Dialog Controls\obj\Debug\Dialog Controls.exe
+D:\samples\Dialog Controls\Dialog Controls\obj\Debug\Dialog Controls.pdb

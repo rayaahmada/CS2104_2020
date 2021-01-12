@@ -1,0 +1,10 @@
+D:\samples\StudentRegistrationApp\StudentRegistrationApp\bin\Debug\StudentRegistrationApp.exe.config
+D:\samples\StudentRegistrationApp\StudentRegistrationApp\bin\Debug\StudentRegistrationApp.exe
+D:\samples\StudentRegistrationApp\StudentRegistrationApp\bin\Debug\StudentRegistrationApp.pdb
+D:\samples\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.csprojAssemblyReference.cache
+D:\samples\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.Form1.resources
+D:\samples\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.Properties.Resources.resources
+D:\samples\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.csproj.GenerateResource.cache
+D:\samples\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.csproj.CoreCompileInputs.cache
+D:\samples\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.exe
+D:\samples\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.pdb

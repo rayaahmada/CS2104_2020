@@ -1,0 +1,12 @@
+D:\samples\DemoInClass\DemoInClass\bin\Debug\DemoInClass.exe.config
+D:\samples\DemoInClass\DemoInClass\bin\Debug\DemoInClass.exe
+D:\samples\DemoInClass\DemoInClass\bin\Debug\DemoInClass.pdb
+D:\samples\DemoInClass\DemoInClass\obj\Debug\DemoInClass.csprojAssemblyReference.cache
+D:\samples\DemoInClass\DemoInClass\obj\Debug\DemoInClass.Form1.resources
+D:\samples\DemoInClass\DemoInClass\obj\Debug\DemoInClass.Properties.Resources.resources
+D:\samples\DemoInClass\DemoInClass\obj\Debug\DemoInClass.csproj.GenerateResource.cache
+D:\samples\DemoInClass\DemoInClass\obj\Debug\DemoInClass.csproj.CoreCompileInputs.cache
+D:\samples\DemoInClass\DemoInClass\obj\Debug\DemoInClass.exe
+D:\samples\DemoInClass\DemoInClass\obj\Debug\DemoInClass.pdb
+D:\samples\DemoInClass\DemoInClass\obj\Debug\DemoInClass.Form2.resources
+D:\samples\DemoInClass\DemoInClass\obj\Debug\DemoInClass.DemoDialog.resources

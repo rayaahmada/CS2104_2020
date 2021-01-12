@@ -1,0 +1,10 @@
+D:\samples\ModelessDialog\ModelessDialog\bin\Debug\ModelessDialog.exe.config
+D:\samples\ModelessDialog\ModelessDialog\bin\Debug\ModelessDialog.exe
+D:\samples\ModelessDialog\ModelessDialog\bin\Debug\ModelessDialog.pdb
+D:\samples\ModelessDialog\ModelessDialog\obj\Debug\ModelessDialog.Form1.resources
+D:\samples\ModelessDialog\ModelessDialog\obj\Debug\ModelessDialog.modal1.resources
+D:\samples\ModelessDialog\ModelessDialog\obj\Debug\ModelessDialog.Properties.Resources.resources
+D:\samples\ModelessDialog\ModelessDialog\obj\Debug\ModelessDialog.csproj.GenerateResource.cache
+D:\samples\ModelessDialog\ModelessDialog\obj\Debug\ModelessDialog.csproj.CoreCompileInputs.cache
+D:\samples\ModelessDialog\ModelessDialog\obj\Debug\ModelessDialog.exe
+D:\samples\ModelessDialog\ModelessDialog\obj\Debug\ModelessDialog.pdb

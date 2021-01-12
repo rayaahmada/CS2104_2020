@@ -1,0 +1,11 @@
+D:\samples\modeless2\modeless2\bin\Debug\modeless2.exe.config
+D:\samples\modeless2\modeless2\bin\Debug\modeless2.exe
+D:\samples\modeless2\modeless2\bin\Debug\modeless2.pdb
+D:\samples\modeless2\modeless2\obj\Debug\modeless2.csprojAssemblyReference.cache
+D:\samples\modeless2\modeless2\obj\Debug\modeless2.DemoDialog.resources
+D:\samples\modeless2\modeless2\obj\Debug\modeless2.Form1.resources
+D:\samples\modeless2\modeless2\obj\Debug\modeless2.Properties.Resources.resources
+D:\samples\modeless2\modeless2\obj\Debug\modeless2.csproj.GenerateResource.cache
+D:\samples\modeless2\modeless2\obj\Debug\modeless2.csproj.CoreCompileInputs.cache
+D:\samples\modeless2\modeless2\obj\Debug\modeless2.exe
+D:\samples\modeless2\modeless2\obj\Debug\modeless2.pdb
